@@ -1,0 +1,15 @@
+============================================================
+ FLEET MAINTENANCE REPORT - 2026-10-04 19:02
+============================================================
+ASSET ID   | EQUIPMENT NAME     | HOURS    | STATUS         
+--------------------------------------------------------------
+UNKNOWN    | Sany SY5418THB     | 450.5    | NORMAL         
+UNKNOWN    | Isuzu Flatbed      | 950.0    | SERVICE SOON   
+UNKNOWN    | Transit Mixer      | 1150.0   | SERVICE DUE    
+UNKNOWN    | Cat 500kVA         | 2100.0   | OVERDUE        
+UNKNOWN    | Schwing Stetter    | 85.0     | NORMAL         
+--------------------------------------------------------------
+
+*** ACTION REQUIRED ***
+  [!] UNKNOWN (Transit Mixer): 1150.0 hrs - Maintenance required. Book immediately.
+  [!] UNKNOWN (Cat 500kVA): 2100.0 hrs - CRITICAL: Exceeded safe service interval!
